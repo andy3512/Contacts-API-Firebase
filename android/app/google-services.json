@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "992242508948",
+    "project_id": "contacts-11323",
+    "storage_bucket": "contacts-11323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992242508948:android:bc2000f4e2c37745c4c081",
+        "android_client_info": {
+          "package_name": "com.parmarexample.contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992242508948-vgfvd8aqchait7jqcl17uq3aob0fqevs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPQbE7r7JXTI54-DDlbeSyDTb4gmNRNYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992242508948-vgfvd8aqchait7jqcl17uq3aob0fqevs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
